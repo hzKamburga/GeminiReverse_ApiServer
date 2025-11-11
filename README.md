@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeepAI API Server 🤖
 
 Node.js HTTP REST API sunucusu - DeepAI API ile **Gemini 2.5 Flash** modeli kullanarak sohbet etmek için multipart form-data desteği ve **otomatik çerez yönetimi** ile gelişmiş API sunucusu.
@@ -427,3 +428,6 @@ Sorularınız için issue açabilirsiniz.
 ---
 
 **Not**: Bu proje DeepAI API'sinin resmi olmayan bir istemcisidir. Sadece **Gemini 2.5 Flash** modeli kullanılır.
+=======
+# GeminiReverse_ApiServer
+>>>>>>> 64485543dbae7670f776c47b9d4be1e884695b54
