@@ -1,0 +1,41 @@
+{
+  "name": "deepai-api-client",
+  "version": "2.0.0",
+  "description": "Node.js ES Module project for DeepAI API - Chat with AI models using multipart form data with automatic cookie management",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node --test",
+    "cookies:refresh": "node utils/refreshCookies.js"
+  },
+  "keywords": [
+    "deepai",
+    "api",
+    "ai",
+    "chat",
+    "gemini",
+    "gpt-4o",
+    "claude",
+    "llama",
+    "multipart-form-data",
+    "image-generator",
+    "web-search",
+    "puppeteer",
+    "cookie-management",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer-real-browser": "^1.4.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
